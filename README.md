@@ -5,8 +5,8 @@
 # Project Name
 ###### New Business is software development company that provides cutting edge IT  solutions.
 
-
-###### Clone this repository to your local machine using https://github.com/fvcproductions/SOMEREPO and Open Index.html file in your Browser.
+### Installation
+###### Clone this repository to your local machine using https://github.com/fvcproductions/SOMEREPO and Open Index.html file in your Browser to run the project.
 
 
 
@@ -14,13 +14,14 @@
 ###### Rijan Regmi * Initial Work *
 
 ### Acknowledgments
-###### 
+
+Stack Overflow have influenced the shape and content of this project and have supported me throughout this journey. I would like to thank ACT360 for providing me this template.
 
 
 #### Built With
-*HTML  
-*CSS
-*Javascript  
-*Jquery (javascript plugin)
-*Owl Carousel (Jquery &  Bootstrap Plugin)
-*Bootstrap (Css Framework)
+* HTML  
+* CSS
+* Javascript  
+* Jquery (javascript plugin)
+* Owl Carousel (Jquery &  Bootstrap Plugin)
+* Bootstrap (Css Framework)
