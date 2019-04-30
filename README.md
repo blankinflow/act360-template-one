@@ -6,7 +6,7 @@
 ###### New Business is software development company that provides cutting edge IT  solutions.
 
 ### Installation
-###### Clone this repository to your local machine using https://github.com/fvcproductions/SOMEREPO and Open Index.html file in your Browser to run the project.
+###### Clone this repository to your local machine using https://github.com/blankinflow/act360-template-one.git and Open Index.html file in your Browser to run the project.
 
 
 
